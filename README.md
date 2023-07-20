@@ -1,17 +1,22 @@
-<p align="center"><a href="https://SridharKadhiri.github.io"><img width="80%" alt="Hello, I'm Sridhar I am a Data Analyst!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://SridharKadhiri.github.io"><img width="80%" alt="Hello, I'm Sridhar I am a Data Analyst!" src="Black Technology LinkedIn Banner.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+**Summary**
+
+As a data analyst with a passion for learning and a strong work ethic, I am excited to bring my skills and experience to the table in any data-driven organization. With a proficiency in Tableau, MS Excel, Python, and MySQL, I am well-equipped to handle the most complex data analysis challenges.
+
+I am excited to explore new opportunities and take on new challenges in the field of data analysis. Please do not hesitate to contact me if you have any questions or would like to discuss my qualifications further
+
+
+ - Jupyter Notebook
+ -  MySQL
+ -  Tableau
+ -  Excel
+
 
 **About me**
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
+- I started working with chatGPT
 - 💬 Ask me about anything [here](https://github.com/SridharKadhiri/SridharKadhiri/issues)
 
 ### Languages and Tools
@@ -28,9 +33,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 <br />
+
+
+
 | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sridhar's github stats" /></a> | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharKadhiri&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-
-
-||||||
+| ------------- | ------------- |
 
