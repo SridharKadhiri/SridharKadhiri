@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Kadhiri_Sridhar
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sridhar-kadhiri97" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sridhar-kadhiri97?trk=profile-badge">Sridhar Kadhiri</a></div>
+              
+[![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SridharKadhiri)](https://github.com/SridharKadhiri/github-readme-stats)
