@@ -11,16 +11,16 @@ As a data analyst, I love learning and working hard. I'm eager to use my skills 
 I'm enthusiastic about finding new opportunities and taking on exciting challenges in the world of data analysis. If you have any questions or want to know more about my qualifications, feel free to reach out to me.
 
 In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for data analysis and ready to contribute my expertise to any data-driven organization.
-
-**Proficiency**
- - Jupyter Notebook (Python)
- - MySQL
- - Tableau
- - Excel
-
+   
+**Certifications**
+- [Python](https://skill-lync.com/certification/individual/1u0ol3d4mcs7b8ht)
+- [MySQL](https://skill-lync.com/certification/individual/zdbp6lq8cwxno23a)
+- [Tableau](https://skill-lync.com/certification/individual/8f6p1gbynudv932o)
+- [MS-Excel](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
+  
 **About me**
-- My Tableau Dashboards : [My_viz](https://public.tableau.com/app/profile/sridhar.kadhiri)
-- Projects : [My_Project](https://github.com/SridharKadhiri/My_Projects)
+- [Tableau Dashboards](https://public.tableau.com/app/profile/sridhar.kadhiri)
+- [My_Projects](https://github.com/SridharKadhiri/My_Projects)
 - I started learning with chatGPT
 - 💬 Ask me about anything [here](https://github.com/SridharKadhiri/SridharKadhiri/issues)
 
