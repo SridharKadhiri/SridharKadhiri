@@ -2,9 +2,11 @@
 
 <br />
 
+# Kadhiri Sridhar - Data Analysis Portfolio 
+
 **Summary**
 
-As a data analyst with a passion for learning and a strong work ethic, I am excited to bring my skills and experience to the table in any data-driven organization. With a proficiency in Tableau, MS Excel, Python, and MySQL, I am well-equipped to handle the most complex data analysis challenges.
+As a data analyst with a passion for learning and a strong work ethic, I am excited to bring my skills and experience to the table in any data-driven organization. With proficiency in Tableau, MS Excel, Python, and MySQL, I am well-equipped to handle the most complex data analysis challenges.
 
 I am excited to explore new opportunities and take on new challenges in the field of data analysis. Please do not hesitate to contact me if you have any questions or would like to discuss my qualifications further
 
@@ -16,7 +18,9 @@ I am excited to explore new opportunities and take on new challenges in the fiel
 
 
 **About me**
-- I started working with chatGPT
+- My Tableau Dashboards : [My_viz](https://public.tableau.com/app/profile/sridhar.kadhiri)
+- Projects : [My_Project](https://github.com/SridharKadhiri/My_Projects)
+- I started learning with chatGPT
 - 💬 Ask me about anything [here](https://github.com/SridharKadhiri/SridharKadhiri/issues)
 
 ### Languages and Tools
