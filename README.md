@@ -2,7 +2,7 @@
 
 <br />
 
-# Kadhiri Sridhar - Data Analysis Portfolio 
+# Sridhar Kadhiri's- Data Analysis Portfolio 
 
 **Objectives**
 
