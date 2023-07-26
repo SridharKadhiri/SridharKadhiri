@@ -4,18 +4,19 @@
 
 # Kadhiri Sridhar - Data Analysis Portfolio 
 
-**Summary**
+**Objectives**
 
-As a data analyst with a passion for learning and a strong work ethic, I am excited to bring my skills and experience to the table in any data-driven organization. With proficiency in Tableau, MS Excel, Python, and MySQL, I am well-equipped to handle the most complex data analysis challenges.
+As a data analyst, I love learning and working hard. I'm eager to use my skills and experience to help any organization that uses data to make decisions. I know how to use Tableau, Microsoft Excel, Python, and MySQL to analyze data, even when it's complicated.
 
-I am excited to explore new opportunities and take on new challenges in the field of data analysis. Please do not hesitate to contact me if you have any questions or would like to discuss my qualifications further
+I'm enthusiastic about finding new opportunities and taking on exciting challenges in the world of data analysis. If you have any questions or want to know more about my qualifications, feel free to reach out to me.
 
+In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for data analysis and ready to contribute my expertise to any data-driven organization.
 
- - Jupyter Notebook
- -  MySQL
- -  Tableau
- -  Excel
-
+**Proficiency**
+ - Jupyter Notebook (Python)
+ - MySQL
+ - Tableau
+ - Excel
 
 **About me**
 - My Tableau Dashboards : [My_viz](https://public.tableau.com/app/profile/sridhar.kadhiri)
