@@ -1,8 +1,9 @@
-<p align="center"><a href="https://SridharKadhiri.github.io"><img width="80%" alt="Hello, I'm Sridhar I am a Data Analyst!" src="Black Technology LinkedIn Banner.png" /></a></p>
+<p align="center"><a ><img width="80%" alt="Hello, I'm Sridhar I am a Data Analyst!" src="Black Technology LinkedIn Banner.png" /></a></p>
 
 <br />
 
-# [Sridhar Kadhiri's- Data Analysis Portfolio](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
+# Sridhar Kadhiri's- Data Analysis Portfolio
+[My Resume](https://github.com/SridharKadhiri/SridharKadhiri/blob/main/Kadhiri%20Sridhar.pdf)
 
 **Objectives**
 
