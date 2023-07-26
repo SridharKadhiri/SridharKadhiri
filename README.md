@@ -1,6 +1,6 @@
 
 
-# Sridhar Kadhiri's- Data Analysis Portfolio
+# Sridhar Kadhiri's- Data Analysis Portfolio 
 [My Resume](https://github.com/SridharKadhiri/SridharKadhiri/blob/main/Kadhiri%20Sridhar.pdf)
 
 **Objectives**
@@ -18,11 +18,10 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 - [MySQL](https://skill-lync.com/certification/individual/zdbp6lq8cwxno23a)
 - [Tableau](https://skill-lync.com/certification/individual/8f6p1gbynudv932o)
 - [MS-Excel](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
-  
+
+
 **About me**
-- [Tableau Dashboards](https://public.tableau.com/app/profile/sridhar.kadhiri)
-- [My_Projects](https://github.com/SridharKadhiri/My_Projects)
-- I started learning with chatGPT
+- ✉️ mail me : 9440711692sk@gmail.com
 - 💬 Ask me about anything [here](https://github.com/SridharKadhiri/SridharKadhiri/issues)
 
 ### Languages and Tools
@@ -45,3 +44,14 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sridhar's github stats" /></a> | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharKadhiri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## Projects
+
+### Project_1 : EDA on Vehicle Insurance Data
+[Short description of your project]
+
+#### Technologies Used:
+- Python
+- Pandas
+- Matplotlib
+  
+[Link to the project repository]()
