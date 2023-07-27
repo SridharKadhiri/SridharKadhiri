@@ -51,8 +51,6 @@ E-Comm Explora is a data analysis project focused on exploring and understanding
 
 Date : 13th March,2023
 #### Technologies Used:
-- Python
-- Pandas
-- Matplotlib
+- SQL (MySQL)
   
 [Link to the project repository](https://github.com/SridharKadhiri/E-Comm_Explora)
