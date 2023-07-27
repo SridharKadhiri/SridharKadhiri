@@ -46,12 +46,13 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 ## Projects
 
-### Project_1 : EDA on Vehicle Insurance Data
-[Short description of your project]
+### Project_1 : E-Comm Explora 
+E-Comm Explora is a data analysis project focused on exploring and understanding the customer-to-customer (C2C) business model in the e-commerce industry. The project utilizes a dataset containing user information and behavior on an e-commerce platform. The goal is to analyze user data and gain valuable insights to enhance the business perspective.
 
+Date : 13th March,2023
 #### Technologies Used:
 - Python
 - Pandas
 - Matplotlib
   
-[Link to the project repository]()
+[Link to the project repository](https://github.com/SridharKadhiri/E-Comm_Explora)
