@@ -38,7 +38,8 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 <br />
 <br />
-
+<br />
+<br />
 
 
 | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sridhar's github stats" /></a> | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharKadhiri&layout=compact&theme=buefy&hide_border=true" /></a> |
