@@ -45,13 +45,14 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sridhar's github stats" /></a> | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharKadhiri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Projects
 
-### Project_1 : E-Comm Explora 
-E-Comm Explora is a data analysis project focused on exploring and understanding the customer-to-customer (C2C) business model in the e-commerce industry. The project utilizes a dataset containing user information and behavior on an e-commerce platform. The goal is to analyze user data and gain valuable insights to enhance the business perspective.
+# Projects:
 
-Date : 13th March,2023
-#### Technologies Used:
-- SQL (MySQL)
-  
-[Link to the project repository](https://github.com/SridharKadhiri/E-Comm_Explora)
+1. **EDA on Vehicle Insurance Customer Data using Python** | <span style="background-color:yellow;
+                                                                color:black;">Python</span> | SQL
+2. **Library Book Management System using Python and SQL** | <span style="background-color:yellow;
+                                                                color:black;">Python</span> | SQLite3
+3. **EDA on Alumni Dataset using SQL** | SQL
+4. **E-Commerce Explora SQL** | SQL
+5. **Analyzing Crimes in India** | <span style="background-color:yellow; color:black;">Python</span> | Excel | MS-PowerPoint
+
