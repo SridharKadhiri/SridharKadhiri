@@ -45,20 +45,17 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 <br />
 <br />
 
-
-| <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sridhar's github stats" /></a> | <a href="https://github.com/SridharKadhiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharKadhiri&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
 # Projects:
 
-1. [**🚕🚑 EDA on Vehicle Insurance Customer Data using Python 🚜🚗**](https://github.com/SridharKadhiri/My_Projects/tree/main/P_2%20EDA%20on%20Vehicle%20Insurence%20data)
-2. [**Library Book Management System using Python and SQL📖**](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)
-3. [**EDA on Alumni Dataset using SQL 🧑‍🎓🎓 | SQL**](https://github.com/SridharKadhiri/EDA-on-Alumini-dataset-using-SQL-)
-4. [**E-Commerce Explora SQL 🛒** | SQL](https://github.com/SridharKadhiri/E-Commerce-Explora-SQL)
-5. [**Analyzing Crimes in India 👮 || Excel | MS-PowerPoint |**](https://github.com/SridharKadhiri/Criminal_activitities_in_India/tree/main)
-6. [**Analysing Literacy Trends in Tamil Nadu – [ TABLEAU | EXCEL]**](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/Day1Project2/Dashboard1)
-8.   [**Unveiling The Gender gap in STEM Jobs of Tamil Nadu – [TABLEAU | EXCEL]**](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/project1day1/Dashboard1?publish=yes)
-9.    [**Data Professionals Survey Breakdown**](https://github.com/SridharKadhiri/Data-Professionals-Survey)
-10.    [**Movie Recommendation System**](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx)
-11.    **Vehicle Accidents Survey**
+|Sno|**Project**|**Skills**|**links**|
+| ------------- | ------------- | ------------- | ------------- |
+|1|EDA on Vehicle Insurance Customer Data|Python|[link](https://github.com/SridharKadhiri/My_Projects/tree/main/P_2%20EDA%20on%20Vehicle%20Insurence%20data)|
+|2|Library Book Management System|Python, SQL|[link](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)|
+|3| EDA on Alumni Dataset | SQL | [link](https://github.com/SridharKadhiri/EDA-on-Alumini-dataset-using-SQL-) |
+|4| E-Commerce Explora | SQL | [link](https://github.com/SridharKadhiri/E-Commerce-Explora-SQL) |
+|5| Analyzing Crimes in India | Python, SQL, Power Point, Tableau | [link](https://github.com/SridharKadhiri/Criminal_activitities_in_India/tree/main) |
+|6| Analysing Literacy Trends in Tamil Nadu | Tableau, Excel  | [Tableau_online](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/Day1Project2/Dashboard1) |
+|7| Unveiling The Gender Gap in STEM Jobs of Tamil Nadu | Tableau, Excel | [Tableau_online](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/project1day1/Dashboard1?publish=yes) |
+|8| Data Professionals Survey Breakdown | PowerBI, Power Point | [Link](https://github.com/SridharKadhiri/Data-Professionals-Survey) |
+|9| Movie Recommendation System | Python, Machine Learning, Power Point | [Presentation](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx) |
+|10| Vehicle Accidents Survey | Python, Tableau, PowerBI, Power Point | [link] |
