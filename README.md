@@ -48,11 +48,11 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 # Projects:
 
-1. **EDA on Vehicle Insurance Customer Data using Python** | <span style="background-color:yellow;
+1. **🚕🚑 EDA on Vehicle Insurance Customer Data using Python 🚜🚗** | <span style="background-color:yellow;
                                                                 color:black;">Python</span> | SQL
-2. **Library Book Management System using Python and SQL** | <span style="background-color:yellow;
+2. **Library Book Management System using Python and SQL📖 ** | <span style="background-color:yellow;
                                                                 color:black;">Python</span> | SQLite3
-3. **EDA on Alumni Dataset using SQL** | SQL
-4. **E-Commerce Explora SQL** | SQL
-5. **Analyzing Crimes in India** | <span style="background-color:yellow; color:black;">Python</span> | Excel | MS-PowerPoint
+3. **EDA on Alumni Dataset using SQL 🧑‍🎓🎓** | SQL
+4. **E-Commerce Explora SQL 🛒** | SQL
+5. **Analyzing Crimes in India 👮** | <span style="background-color:yellow; color:black;">Python</span> | Excel | MS-PowerPoint
 
