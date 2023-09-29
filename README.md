@@ -1,7 +1,7 @@
 
 
 # Sridhar Kadhiri's- Data Analysis Portfolio 
-- 📝 Resume [Kadhiri_Sridhar][Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/files/12768737/Kadhiri_Sridhar.pdf)
+- 📝 Resume [Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/files/12768737/Kadhiri_Sridhar.pdf) ⬇️
 
 - 💬 [ HackerRank 5⭐ Gold Badge ](https://www.hackerrank.com/9440711692sk)
 
@@ -55,9 +55,10 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 |2|Library Book Management System|Python, SQL|[link](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)|
 |3| EDA on Alumni Dataset | SQL | [link](https://github.com/SridharKadhiri/EDA-on-Alumini-dataset-using-SQL-) |
 |4| E-Commerce Explora | SQL | [link](https://github.com/SridharKadhiri/E-Commerce-Explora-SQL) |
-|5| Analyzing Crimes in India | Python, SQL, Power Point, Tableau | [link](https://github.com/SridharKadhiri/Criminal_activitities_in_India/tree/main) |
+|5| Analyzing Crimes in India | Python, SQL, MS Power Point, Tableau | [link](https://github.com/SridharKadhiri/Criminal_activitities_in_India/tree/main) |
 |6| Analysing Literacy Trends in Tamil Nadu | Tableau, Excel  | [Tableau_online](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/Day1Project2/Dashboard1) |
 |7| Unveiling The Gender Gap in STEM Jobs of Tamil Nadu | Tableau, Excel | [Tableau_online](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/project1day1/Dashboard1?publish=yes) |
-|8| Data Professionals Survey Breakdown | PowerBI, Power Point | [Link](https://github.com/SridharKadhiri/Data-Professionals-Survey) |
-|9| Movie Recommendation System | Python, Machine Learning, Power Point | [Presentation](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx) |
-|10| Vehicle Accidents Survey | Python, Tableau, PowerBI, Power Point | [link] |
+|8| Data Professionals Survey Breakdown | PowerBI, MS Power Point | [Link](https://github.com/SridharKadhiri/Data-Professionals-Survey) |
+|9| Movie Recommendation System | Python, Machine Learning, MS Power Point | [Presentation](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx) |
+|10| Vehicle Accidents Survey | Python, Tableau, PowerBI, MS Power Point | [working] |
+|11| Telangana Growth Analysis | Python, Tableau, MS Excel, MS Power Point | [working] |
