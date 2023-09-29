@@ -1,11 +1,12 @@
 
 
 # Sridhar Kadhiri's- Data Analysis Portfolio 
-- 📝 Resume [Kadhiri_Sridhar](https://github.com/SridharKadhiri/SridharKadhiri/files/12755908/Kadhiri_Sridhar.pdf)
+- 📝 Resume [Kadhiri_Sridhar][Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/files/12768737/Kadhiri_Sridhar.pdf)
 
 - 💬 [ HackerRank 5⭐ Gold Badge ](https://www.hackerrank.com/9440711692sk)
 
 **Objectives**
+
 
 
 I'm a passionate data analyst with 1 year of experience in exploring and visualizing data to gain valuable insights. I love working with datasets and extracting meaningful information to drive data-informed decisions.
@@ -29,7 +30,8 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 ### Languages and Tools
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt
+="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
