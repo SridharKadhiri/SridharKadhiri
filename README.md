@@ -1,9 +1,12 @@
 
 
 # Sridhar Kadhiri's- Data Analysis Portfolio 
-[My Resume](https://github.com/SridharKadhiri/SridharKadhiri/blob/main/Kadhiri%20Sridhar.pdf)
+- 📝 Resume [Kadhiri_Sridhar](https://github.com/SridharKadhiri/SridharKadhiri/files/12755908/Kadhiri_Sridhar.pdf)
+
+- 💬 [ HackerRank 5⭐ Gold Badge ](https://www.hackerrank.com/9440711692sk)
 
 **Objectives**
+
 
 I'm a passionate data analyst with 1 year of experience in exploring and visualizing data to gain valuable insights. I love working with datasets and extracting meaningful information to drive data-informed decisions.
 
@@ -32,7 +35,8 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="tableau" width="100" src="[https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftableau&psig=AOvVaw2Pbu2IuOHBDrhzbPaq4Y_B&ust=1689928744913000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDho7DxnIADFQAAAAAdAAAAABAE)" />
+<img align="left" alt="tableau" width="100" src="[[image](https://github.com/SridharKadhiri/SridharKadhiri/assets/90100318/341ead02-5d8f-419f-8e1d-d816455e8052)
+]" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -55,4 +59,3 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 3. **EDA on Alumni Dataset using SQL 🧑‍🎓🎓** | SQL
 4. **E-Commerce Explora SQL 🛒** | SQL
 5. **Analyzing Crimes in India 👮** | <span style="background-color:yellow; color:black;">Python</span> | Excel | MS-PowerPoint
-
