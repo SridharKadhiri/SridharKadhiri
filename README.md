@@ -52,10 +52,13 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 # Projects:
 
-1. **🚕🚑 EDA on Vehicle Insurance Customer Data using Python 🚜🚗** | <span style="background-color:yellow;
-                                                                color:black;">Python</span> | SQL
-2. **Library Book Management System using Python and SQL📖 ** | <span style="background-color:yellow;
-                                                                color:black;">Python</span> | SQLite3
-3. **EDA on Alumni Dataset using SQL 🧑‍🎓🎓** | SQL
-4. **E-Commerce Explora SQL 🛒** | SQL
-5. **Analyzing Crimes in India 👮** | <span style="background-color:yellow; color:black;">Python</span> | Excel | MS-PowerPoint
+1. [**🚕🚑 EDA on Vehicle Insurance Customer Data using Python 🚜🚗**](https://github.com/SridharKadhiri/My_Projects/tree/main/P_2%20EDA%20on%20Vehicle%20Insurence%20data)
+2. [**Library Book Management System using Python and SQL📖**](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)
+3. [**EDA on Alumni Dataset using SQL 🧑‍🎓🎓 | SQL**](https://github.com/SridharKadhiri/EDA-on-Alumini-dataset-using-SQL-)
+4. [**E-Commerce Explora SQL 🛒** | SQL](https://github.com/SridharKadhiri/E-Commerce-Explora-SQL)
+5. [**Analyzing Crimes in India 👮 || Excel | MS-PowerPoint |**](https://github.com/SridharKadhiri/Criminal_activitities_in_India/tree/main)
+6. [**Analysing Literacy Trends in Tamil Nadu – [ TABLEAU | EXCEL]**](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/Day1Project2/Dashboard1)
+8.   [**Unveiling The Gender gap in STEM Jobs of Tamil Nadu – [TABLEAU | EXCEL]**](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/project1day1/Dashboard1?publish=yes)
+9.    [**Data Professionals Survey Breakdown**](https://github.com/SridharKadhiri/Data-Professionals-Survey)
+10.    [**Movie Recommendation System**](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx)
+11.    **Vehicle Accidents Survey**
