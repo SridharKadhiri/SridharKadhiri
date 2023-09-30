@@ -3,7 +3,7 @@
 # Sridhar Kadhiri's- Data Analysis Portfolio 
 - 📝 Resume [Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/files/12768737/Kadhiri_Sridhar.pdf) ⬇️
 
-- 💬 [ HackerRank 5⭐ Gold Badge ](https://www.hackerrank.com/9440711692sk)
+- 💬 [ HackerRank 5⭐ Gold Badge in SQL](https://www.hackerrank.com/9440711692sk)
 
 **Objectives**
 
