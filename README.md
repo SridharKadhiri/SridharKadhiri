@@ -60,5 +60,5 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 |7| Unveiling The Gender Gap in STEM Jobs of Tamil Nadu | Tableau, Excel | [Tableau_online](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/project1day1/Dashboard1?publish=yes) |
 |8| Data Professionals Survey Breakdown | PowerBI, MS Power Point | [Link](https://github.com/SridharKadhiri/Data-Professionals-Survey) |
 |9| Movie Recommendation System | Python, Machine Learning, MS Power Point | [Presentation](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx) |
-|10| Vehicle Accidents Survey | Python, Tableau, PowerBI, MS Power Point | [working] |
+|10| Vehicle Accidents Survey | Python, Tableau, MS Power Point | [repo](https://github.com/SridharKadhiri/Undersatanding-Road-Accidents) |
 |11| Telangana Growth Analysis | Python, Tableau, MS Excel, MS Power Point | [working] |
