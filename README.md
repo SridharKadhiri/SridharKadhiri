@@ -5,7 +5,8 @@
 
 - 💬 [ HackerRank 5⭐ Gold Badge in SQL](https://www.hackerrank.com/9440711692sk)
 
-**Objectives**
+
+## Objectives
 
 
 
@@ -16,20 +17,24 @@ As a data analyst, I love learning and working hard. I'm eager to use my skills 
 I'm enthusiastic about finding new opportunities and taking on exciting challenges in the world of data analysis. If you have any questions or want to know more about my qualifications, feel free to reach out to me.
 
 In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for data analysis, and ready to contribute my expertise to any data-driven organization.
-   
-**Certifications**
+
+
+## Certifications
 - [Python](https://skill-lync.com/certification/individual/1u0ol3d4mcs7b8ht)
 - [MySQL](https://skill-lync.com/certification/individual/zdbp6lq8cwxno23a)
 - [Tableau](https://skill-lync.com/certification/individual/8f6p1gbynudv932o)
 - [MS-Excel](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
 
 
-**Contact me**
+
+## Contact me
 - ✉️ mail me : 9440711692sk@gmail.com
 - 📞 Call : 8328258754
 - 💬 Ask me about anything [here](https://github.com/SridharKadhiri/SridharKadhiri/issues)
 
-### Languages and Tools
+
+
+## Languages and Tools
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt
 ="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -46,12 +51,11 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 <br />
 <br />
 <br />
-<br />
 
-# Projects:
 
-|Sno|**Project**|**Skills**|
-**Links**| **Date of Completion**|
+## Projects:
+
+|Sno|**Project**|**Skills**|**Links**| **Date of Completion**|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1|EDA on Vehicle Insurance Customer Data|Python|[link](https://github.com/SridharKadhiri/My_Projects/tree/main/P_2%20EDA%20on%20Vehicle%20Insurence%20data)|  |
 |2|Library Book Management System|Python, SQL|[link](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)|  |
