@@ -24,8 +24,9 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 - [MS-Excel](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
 
 
-**About me**
+**Contact me**
 - ✉️ mail me : 9440711692sk@gmail.com
+- 📞 Call : 8328258754
 - 💬 Ask me about anything [here](https://github.com/SridharKadhiri/SridharKadhiri/issues)
 
 ### Languages and Tools
@@ -49,7 +50,8 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 
 # Projects:
 
-|Sno|**Project**|**Skills**|**Links**| **Date of Completion**|
+|Sno|**Project**|**Skills**|
+**Links**| **Date of Completion**|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1|EDA on Vehicle Insurance Customer Data|Python|[link](https://github.com/SridharKadhiri/My_Projects/tree/main/P_2%20EDA%20on%20Vehicle%20Insurence%20data)|  |
 |2|Library Book Management System|Python, SQL|[link](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)|  |
