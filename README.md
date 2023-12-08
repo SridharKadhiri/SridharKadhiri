@@ -1,9 +1,11 @@
-# Sridhar Kadhiri's Data Analysis Portfolio 
+
+# <i> My Data Science Portfolio </i>
+
 
 - 📝 Resume [Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/files/12768737/Kadhiri_Sridhar.pdf) ⬇️
 
 ## Objectives
-Aspiring to pursue a career as a data professional, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over a year of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.
+<i>Aspiring to pursue a career as a data professional, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over a year of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
 
 ## Certifications
 - [Python](https://skill-lync.com/certification/individual/1u0ol3d4mcs7b8ht)
