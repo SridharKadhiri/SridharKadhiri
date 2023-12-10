@@ -8,10 +8,10 @@
 <i>Aspiring to pursue a career as a data professional, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over a year of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
 
 ## Sample Dashboards
-
-| Road Accidents Dashboard - Tableau  | EdTech Churn Analysis - PowerBI |
+| Road Accidents Dashboard - Tableau | EdTech Churn Analysis - PowerBI |
 | ------------- | ------------- |
-| ![image](https://github.com/SridharKadhiri/SridharKadhiri/assets/90100318/7762ea50-77a8-41ac-a9ba-56fcea3ff4b7) | ![image](https://github.com/SridharKadhiri/SridharKadhiri/assets/90100318/7aef3059-4439-49fe-8d97-c92aa55f326c) |
+| <div><img src="https://github.com/SridharKadhiri/SridharKadhiri/assets/90100318/7762ea50-77a8-41ac-a9ba-56fcea3ff4b7" alt="Road Accidents Dashboard" style="width:500px; height:250px;"></div> | <div><img src="https://github.com/SridharKadhiri/SridharKadhiri/assets/90100318/7aef3059-4439-49fe-8d97-c92aa55f326c" alt="EdTech Churn Analysis" style="width:500px; height:250px;"></div> |
+
 
 
 ## Certifications
@@ -55,6 +55,12 @@
 |9| Movie Recommendation System | Python, Machine Learning, MS Power Point | [Presentation](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx) | |
 |10| Vehicle Accidents Survey | Python, Tableau, MS Power Point | [repo](https://github.com/SridharKadhiri/Undersatanding-Road-Accidents) | 3rd Oct, 2023 |
 |11| EdTech lead Data Analysis | PowerBI | [Repo](https://github.com/SridharKadhiri/EdTech-Data-Analysis-) | 12th Nov 2023  |
+
+## My GitHub Stats
+| <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&locale=en" alt="SridharKadhiri" /></p></div> |<div> <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SridharKadhiri&" alt="SridharKadhiri" /></p> </div> |
+| ------------- | ------------- |
+
+
 
 ## Contact me
 - ✉️ mail me : 9440711692sk@gmail.com
