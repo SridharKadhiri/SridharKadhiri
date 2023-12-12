@@ -55,6 +55,7 @@
 |9| Movie Recommendation System | Python, Machine Learning, MS Power Point | [Presentation](https://www.slideshare.net/Sridharkadiri2/movie-recommendation-systemfinalpptx) | |
 |10| Vehicle Accidents Survey | Python, Tableau, MS Power Point | [repo](https://github.com/SridharKadhiri/Undersatanding-Road-Accidents) | 3rd Oct, 2023 |
 |11| EdTech lead Data Analysis | PowerBI | [Repo](https://github.com/SridharKadhiri/EdTech-Data-Analysis-) | 12th Nov 2023  |
+|12| Covid Vaccinations Progress | Python, SQL, Tableau | [Repo](https://github.com/SridharKadhiri/Covid-Vaccination-Analytics) | 12th Dec 2023 |
 
 ## My GitHub Stats
 | <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SridharKadhiri&show_icons=true&locale=en" alt="SridharKadhiri" /></p></div> |<div> <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SridharKadhiri&" alt="SridharKadhiri" /></p> </div> |
