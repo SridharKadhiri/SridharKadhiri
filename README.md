@@ -5,7 +5,7 @@
 - 📝 Resume [Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/blob/main/Kadhiri_Sridhar%202%20yrs%20Exp%2C%20Data%20Analyst.pdf)
 
 ## Objectives
-<i>Hi here's your Data Science Enthusiast, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over 2 years of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
+<i>Hi, I am a PowerBI Developer and a Data Science Enthu, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over 2 years of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
 
 ## Sample Dashboards
 | Road Accidents Dashboard - Tableau | EdTech Churn Analysis - PowerBI |
@@ -21,7 +21,7 @@
 - [MS-Excel](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
 - [SQL (Intermediate) HackerRank](https://www.hackerrank.com/certificates/3f6bcf953e8f)
 - [SQL (Basic) HackerRank](https://www.hackerrank.com/certificates/9dc9de94f424)
-
+  
 ## Internships
 
 ### Data Analyst Intern at EPOWERX Learning Technologies
