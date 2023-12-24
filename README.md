@@ -5,7 +5,7 @@
 - 📝 Resume [Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/files/12768737/Kadhiri_Sridhar.pdf) ⬇️
 
 ## Objectives
-<i>Aspiring to pursue a career as a data professional, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over a year of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
+<i>Hi here's your Data Science Enthusiast, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over 2 years of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
 
 ## Sample Dashboards
 | Road Accidents Dashboard - Tableau | EdTech Churn Analysis - PowerBI |
