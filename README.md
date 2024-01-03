@@ -4,7 +4,7 @@
 
 - 📝 Resume [Kadhiri_Sridhar.pdf](https://github.com/SridharKadhiri/SridharKadhiri/blob/main/Kadhiri_Sridhar%202%20yrs%20Exp%2C%20Data%20Analyst.pdf)
 
-## Objectives
+
 <i>Hi, I am a PowerBI Developer and a Data Science Enthu, I possess hands-on expertise in **Python**, **SQL**, **PowerBI**, **Tableau**, and **MS-Excel**, with over 2 years of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.</i>
 
 ## Sample Dashboards
