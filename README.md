@@ -23,6 +23,7 @@
 - [MS-Excel](https://skill-lync.com/certification/individual/je0ilwavrg94bxc3)
 - [SQL (Intermediate) HackerRank](https://www.hackerrank.com/certificates/3f6bcf953e8f)
 - [SQL (Basic) HackerRank](https://www.hackerrank.com/certificates/9dc9de94f424)
+- [SQL (Advanced) HackerRank](https://www.hackerrank.com/certificates/660b70f708bb)
   
 ## Internships
 
